@@ -1,15 +1,11 @@
 package cn.sysu;
 
-/*
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NacosDemoApplication {
-
+public class Service1Application {
     public static void main(String[] args) {
-        SpringApplication.run(NacosDemoApplication.class, args);
+        SpringApplication.run(Service1Application.class);
     }
-
 }
-*/
